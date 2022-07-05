@@ -13,6 +13,9 @@ Am zweiten Tag habe ich meine API in das Script eingebunden. Dazu habe ich zuers
 
 ## Tag 03
 
+Am dritten Tag habe ich dann gemerkt, dass man für diese API bezahlen muss. Weshalb ich dann eine neue API gesucht habe. Am Schluss wurde es eine "Chuck Norris Witze API". ALs ich mich dann endlich entschieden habe, welche API ich verwende, habe ich die API zu einem PDF erstellt. Als ich dann das Programm laufen lies, erschien der Witz im Terminal. Diese Witze sind einfach nicht lustig.
+![UML Diagramm](/PDF%20erstellt.png)
+
 ## Tag 04
 
 ## Reflexion
