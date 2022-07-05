@@ -1,5 +1,4 @@
 from http import server
-from turtle import color, width
 from xhtml2pdf import pisa
 from dotenv import dotenv_values
 from email.message import EmailMessage
@@ -8,6 +7,7 @@ import json
 import smtplib
 import yagmail
 import os
+import ftplib
 
 
 
@@ -27,7 +27,7 @@ html= f'''
 <h1>Chuck Norris API</h1>
 <p><b>{Witz}</b></p>
 <div class="Cloud-img">
-    <img src="https://i.ds.at/gHYq0A/rs:fill:750:0/plain/2020/03/09/chuckBreiteKLEINER1200pix.jpg" width="720" height="347"></a>
+    <img src="https://i.ds.at/gHYq0A/rs:fill:750:0/plain/2020/03/09/chuckBreiteKLEINER1200pix.jpg" width="500" height="347"></a>
 </div>
 '''
 
