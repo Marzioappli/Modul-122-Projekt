@@ -18,4 +18,10 @@ Am dritten Tag habe ich dann gemerkt, dass man für diese API bezahlen muss. Wes
 
 ## Tag 04
 
+Dieser Schultag war für mein Projekt mit Sicherheit das Produktivste. Zuerst habe ich es geschaft, dass wenn ich mein Programm im Terminal ausführe, der E-Mail adresse, die ich angegeben habe, ein Mail mit einem Satz geschickt wird.
+Nach der langen Pause konnte ich dann daselbe nochmals machen. Der Unterschied war aber, dass ich mein PDF von den Chuck Norris Witzen mitschicken konnte.
+![UML Diagramm](/Email%20Chuck%20Norris.png)
+
+## Restzeit
+
 ## Reflexion
