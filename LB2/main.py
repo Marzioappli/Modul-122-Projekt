@@ -26,9 +26,9 @@ pdf_file = open("Chuck Norris.pdf", "w+b")
 pisa.CreatePDF(html, dest=pdf_file)
 pdf_file.close()
 
-server = smtplib.SMTP('smtp.outlook.com', 587)
+server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
-server.login('LB2.ChuckNorris@outlook.com', 'Gczürich*10')
-server.sendmail('LB2.ChuckNorris@outlook.com', 'marzio.cassese@edu.tbz.ch', 'Mail automatisiert versendet')
+server.login('lb2.chucknorris@gmail.com', 'kvwjfstqoczbehso')
+server.sendmail('lb2.chucknorris@gmail.com', 'marzio@hispeed.ch', 'Mail automatisiert versendet')
 print('Mail wurde erfolgreich versendet')
 
