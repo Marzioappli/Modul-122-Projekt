@@ -41,7 +41,7 @@ dotenv = dotenv_values(".env")
 
 user = dotenv.get("Email_Sendfrom")
 passcodeGmail = dotenv.get("Email_Passcode")
-to = "marzio@hispeed.ch"
+to = "lb2.chucknorris@gmail.com"
 
 
 with yagmail.SMTP(user, passcodeGmail) as yag:
